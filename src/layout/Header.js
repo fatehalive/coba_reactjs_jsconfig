@@ -1,5 +1,5 @@
-import Image from "../components/Image";
-import Text from "../components/Text";
+import Image from "components/Image";
+import Text from "components/Text";
 
 function Header(props) {
     return (
